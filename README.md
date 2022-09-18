@@ -1,8 +1,9 @@
 <h1 align="center">Hi! I'm Atia 👋 </h1>
-<h4 align="center"> I'm full stack developer, I love to spread knowledge, help others & content creation 🎆
+<h4 align="center"> 
 </h4>
 <br>
 
+## I'm a Full Stack developer, I love to spread knowledge, help others & content creation 🎆
 
 # 🔥 Content Creation 
 
@@ -45,22 +46,23 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp; ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) &nbsp; &nbsp; ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+
+## 👉 Github Stats
+<span align="left">
+
+![Atia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtiaK&show_icons=true&hide_border=false&border_color=FFFFFF&bg_color=0000&title_color=F58723&icon_color=F58723&text_color=FFFFFF)
+</span>
+<span align="right">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AtiaK&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</span>
+ 
+
 <br />
 <hr/>
+
 
 <p align="center">
 	<a href="mailto:codewithatia@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/AtiaK"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/web-developer-mobile-app-developer/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
-
-
-<h2>📈 &nbsp;Some Github Stats</h2>
-<span align="left">
-
-![Atia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtiaK&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
-</span>
-<span align="right">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AtiaK&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</span>
- 
