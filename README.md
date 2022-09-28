@@ -50,10 +50,7 @@
 
 ![Atia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtiaK&show_icons=true&hide_border=false&border_color=FFFFFF&bg_color=0000&title_color=F58723&icon_color=F58723&text_color=FFFFFF)
 </span>
-<span align="right">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AtiaK&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</span>
- 
+
 
 <br />
 <hr/>
